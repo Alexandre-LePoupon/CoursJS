@@ -1,0 +1,23 @@
+{
+  "name": "coursjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandre-LePoupon/CoursJS.git"
+  },
+  "author": "Alexandre-LePoupon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexandre-LePoupon/CoursJS/issues"
+  },
+  "homepage": "https://github.com/Alexandre-LePoupon/CoursJS#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.2.0"
+  }
+}
